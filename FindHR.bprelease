@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bpr:release xmlns:bpr="http://www.blueprism.co.uk/product/release">
+    <bpr:name>FindHR</bpr:name>
+    <bpr:release-notes />
+    <bpr:created>2019-11-26 10:46:34Z</bpr:created>
+    <bpr:package-id>-1</bpr:package-id>
+    <bpr:package-name>&lt;Adhoc Package&gt;</bpr:package-name>
+    <bpr:user-created-by>admin</bpr:user-created-by>
+    <bpr:contents count="1">
+        <process id="faecaa13-e97a-488e-8ac8-4caf3315b325" name="ExtractHRfromExel" xmlns="http://www.blueprism.co.uk/product/process"><process name="ExtractHRfromExel" version="1.0" bpversion="6.2.0.2669" narrative=""><view><camerax>0</camerax><cameray>0</cameray><zoom version="2">1.25</zoom></view><preconditions /><endpoint narrative="" /><stage stageid="ea9d8c32-9d9d-4470-ace1-df6f2745d1a0" name="Start" type="Start"><narrative></narrative><displayx>15</displayx><displayy>-105</displayy><displaywidth>60</displaywidth><displayheight>30</displayheight><font family="Segoe UI" size="10" style="Regular" color="000000" /></stage><stage stageid="dce206b6-3334-449a-8216-b57d11b20880" name="End" type="End"><narrative></narrative><displayx>15</displayx><displayy>90</displayy><displaywidth>60</displaywidth><displayheight>30</displayheight><font family="Segoe UI" size="10" style="Regular" color="000000" /></stage><stage stageid="bb6404b6-3160-49f8-ae4b-0117af0e13be" name="Stage1" type="ProcessInfo"><narrative></narrative><displayx>-195</displayx><displayy>-105</displayy><displaywidth>150</displaywidth><displayheight>90</displayheight><font family="Segoe UI" size="10" style="Regular" color="000000" /></stage></process></process>
+    </bpr:contents>
+</bpr:release>
